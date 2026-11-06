@@ -1,0 +1,16 @@
+bin/
+obj/
+publish/
+TestResults/
+
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+.omc/
+.claude/
+
+Thumbs.db
+desktop.ini
